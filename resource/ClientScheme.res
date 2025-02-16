@@ -1573,7 +1573,7 @@ Scheme
 			"1"
 			{
 				"name"		"FortressForever - Item Glyphs"
-				"tall"		"46" [$LINUX]
+				"tall"		"30" [$LINUX]
 				"tall"		"64"
 				"weight"	"0"
 				"antialias"	"1"
@@ -1585,7 +1585,7 @@ Scheme
 			"1"
 			{
 				"name"		"FortressForever - Item Glyphs"
-				"tall"		"46" [$LINUX]
+				"tall"		"30" [$LINUX]
 				"tall"		"64"
 				"weight"	"0"
 				"antialias"	"1"
@@ -1599,7 +1599,7 @@ Scheme
 			"1"
 			{
 				"name"		"FortressForever - Item Glyphs"
-				"tall"		"40" [$LINUX]
+				"tall"		"30" [$LINUX]
 				"tall"		"50"
 				"weight"	"0"
 				"antialias"	"1"
